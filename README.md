@@ -1,4 +1,4 @@
-![VoxPop Logo]([/images/logo.png](https://www.voxpoplisboa.pt/uploads/8/0/5/3/80533238/voxpop-thumbnail-180x60px-01.png))
+![voxpop-thumbnail-180x60px-01](https://github.com/emel-mobilidade/VoxPop/assets/141622427/d84fc557-7835-4993-bfc0-c27dba867af8)
 
 # Repositório de dados, documentos e código aberto resultantes do projeto europeu VoxPop
 
