@@ -1,4 +1,4 @@
-![imagem](https://github.com/emel-mobilidade/VoxPop/assets/141622427/eaf62bc9-00cf-4374-a235-54f55b46ca6d)# Desafio 3: Mapear a acessibilidade para pessoas com mobilidade reduzida (PMR) de jornadas em transportes públicos
+# Desafio 3: Mapear a acessibilidade para pessoas com mobilidade reduzida (PMR) de jornadas em transportes públicos
 
 ## Analíticas desenvolvidas:
 - Identificação de ruas com largura inferior ao Plano de Acessibilidade Pedonal de Lisboa
