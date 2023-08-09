@@ -5,6 +5,7 @@
 - Identificação de ruas com largura inferior ao Plano de Acessibilidade Pedonal de Lisboa
 
 No âmbito desta análise foi desenvolvido um cálculo da largura do passeios da cidade de Lisboa.
+
 ![Captura de ecrã 2023-08-09 144317](https://github.com/emel-mobilidade/VoxPop/assets/141622427/3e04ed4c-76b1-4e15-8c2a-0e0a2c1c190b)
 
 
